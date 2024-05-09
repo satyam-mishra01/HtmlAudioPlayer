@@ -1,5 +1,6 @@
 body {
-   background-color: color-mix(in srgb, #34c9eb 0%, white);
+   background: skyblue;
+      color: red;
 }
 
 .body {
